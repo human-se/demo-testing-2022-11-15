@@ -12,3 +12,9 @@
 one:
   title: Software Engineering Principles
   description: Basic concepts of software engineering and design
+  creator: one
+
+two:
+  title: Software Testing
+  description: How to keep bugs from creeping into your code
+  creator: one
