@@ -26,5 +26,6 @@ class Quiz < ApplicationRecord
     )
 
     validates :title, presence: true
+    validates :title, length: { maximum: 32 }
     
 end
